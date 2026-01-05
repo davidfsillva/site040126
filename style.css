@@ -11,7 +11,6 @@ body {
   line-height: 1.6;
 }
 
-/* HEADER */
 header {
   background-color: #0496FF;
   color: white;
@@ -34,7 +33,6 @@ header nav a:hover {
   text-decoration: underline;
 }
 
-/* CONTAINER CENTRAL */
 .container {
   box-shadow: 0 4px 8px white;
   max-width: 900px;
@@ -44,7 +42,6 @@ header nav a:hover {
   border-radius: 10px;
 }
 
-/* SECTIONS */
 section {
   margin-bottom: 30px;
 }
@@ -58,7 +55,6 @@ section p {
   margin-bottom: 15px;
 }
 
-/* IMAGEM */
 section img {
   width: 100%;
   max-width: 400px;
@@ -66,7 +62,6 @@ section img {
   margin: 20px auto;
 }
 
-/* VIDEO RESPONSIVO */
 .video iframe {
   width: 100%;
   height: 315px;
@@ -74,7 +69,6 @@ section img {
   border: none;
 }
 
-/* FOOTER */
 footer {
   text-align: center;
   padding: 15px;
@@ -82,7 +76,6 @@ footer {
   color: white;
 }
 
-/* RESPONSIVO */
 @media (max-width: 600px) {
   header nav a {
     display: block;
@@ -90,5 +83,6 @@ footer {
   }
 
 }
+
 
 
